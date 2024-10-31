@@ -7,5 +7,4 @@ nume = {"sector", "fullTimeEmployees",
 }
 for i in nume:
     for j in files:
-          if i == j:
-            print(f"{i}: {files[j]}\n")
+         print(f"{i}: {files[j]}\n")
